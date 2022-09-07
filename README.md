@@ -1,2 +1,2 @@
-# LGDN
-This repository for LGDN paper and code coming soon!
+# LGCN
+This repository for LGCN paper and code coming soon!
