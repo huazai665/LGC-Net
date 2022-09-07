@@ -1,3 +1,2 @@
 # LGDN
-This repository for LGDN paper
-code coming soon!
+This repository for LGDN paper and code coming soon!
